@@ -1,0 +1,9 @@
+com\hackhaton\safer\model\UsuarioLogin.class
+com\hackhaton\safer\service\UsuarioService.class
+com\hackhaton\safer\repository\UserRepository.class
+com\hackhaton\safer\model\User.class
+com\hackhaton\safer\seguranca\BasicSecurityConfig.class
+com\hackhaton\safer\seguranca\UserDetailsServiceImpl.class
+com\hackhaton\safer\seguranca\UserDetailsImpl.class
+com\hackhaton\safer\controller\UserController.class
+com\hackhaton\safer\SaferApplication.class
